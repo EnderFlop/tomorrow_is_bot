@@ -1,7 +1,6 @@
 import requests
 import tweepy
 import os
-from TwitterAPI import TwitterAPI
 from dotenv import load_dotenv
 from image_creator import create_image
 
